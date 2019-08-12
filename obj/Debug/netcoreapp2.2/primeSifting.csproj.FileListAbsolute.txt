@@ -1,0 +1,11 @@
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.csprojAssemblyReference.cache
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.csproj.CoreCompileInputs.cache
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.AssemblyInfoInputs.cache
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.AssemblyInfo.cs
+C:\Users\Pope\desktop\c#\primesifting\bin\Debug\netcoreapp2.2\primeSifting.deps.json
+C:\Users\Pope\desktop\c#\primesifting\bin\Debug\netcoreapp2.2\primeSifting.runtimeconfig.json
+C:\Users\Pope\desktop\c#\primesifting\bin\Debug\netcoreapp2.2\primeSifting.runtimeconfig.dev.json
+C:\Users\Pope\desktop\c#\primesifting\bin\Debug\netcoreapp2.2\primeSifting.dll
+C:\Users\Pope\desktop\c#\primesifting\bin\Debug\netcoreapp2.2\primeSifting.pdb
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.dll
+C:\Users\Pope\desktop\c#\primesifting\obj\Debug\netcoreapp2.2\primeSifting.pdb
